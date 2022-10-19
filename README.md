@@ -1,7 +1,7 @@
 
 # US Babay Names Dataset
 
-Here is some useful functions implemented on a sub-dataset from US baby names dataset.
+Here is some useful functions from pandas implemented on a sub-dataset from US baby names dataset.
 
 ## Dataset
 The used dataset is publicly available at: https://www.kaggle.com/datasets/kaggle/us-baby-names
