@@ -1,15 +1,16 @@
 
 # US Babay Names Dataset
 
-Here is some useful functions from pandas implemented on a sub-dataset from US baby names dataset.
+Here is some useful functions from pandas implemented on a sub-dataset from US baby names dataset. This repo is a set of 
+tasks assigned to help you to imporve your pandas skills.
+
+Enjoy!
 
 ## Dataset
 The used dataset is publicly available at: https://www.kaggle.com/datasets/kaggle/us-baby-names
 ## Overview
-Pandas is a Python package that provides fast, flexible, and expressive data structures for easy and intuitive manipulation of related or labeled data.  It is intended to be a basic, high-level building block for  practical, real-world data analysis in Python. This repo is a set of 
-tasks assigned to help you to imporve your pandas skills.
+Pandas is a Python package that provides fast, flexible, and expressive data structures for easy and intuitive manipulation of related or labeled data.  It is intended to be a basic, high-level building block for  practical, real-world data analysis in Python. 
 
-Enjoy!
 ## Requiremnts
 I'm using python (version == 3.10.4), and I highly recommend you to use conda for package management.
  - numpy
