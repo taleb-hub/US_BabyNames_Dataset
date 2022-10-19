@@ -1,8 +1,7 @@
 
 # US Babay Names Dataset
 
-Here is some useful functions from pandas implemented on a sub-dataset from US baby names dataset. This repo is a set of 
-tasks assigned to help you to imporve your pandas skills.
+Here is some useful functions from pandas implemented on a sub-dataset from US baby names dataset. This repo is a set of tasks may help you to improve your pandas skills.
 
 Enjoy!
 
