@@ -11,10 +11,10 @@ tasks assigned to help you to imporve your pandas skills.
 
 Enjoy!
 ## Requiremnts
+I'm using python (version == 3.10.4), and I highly recommend you to use conda for package management.
  - numpy
  - pandas
  
-I'm using python (version == 3.10.4), and I highly recommend you to use conda for package management.
 
 ## Related
 
